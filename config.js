@@ -29,9 +29,9 @@ var config = {
             description: 'El faro de Punta Lava o faro de Punta del Moro es un faro situado en Tazacorte, al oeste de la isla de La Palma, en el archipiélago de las Islas Canarias, España. Es uno de los cuatro principales faros de La Palma, ya que cada uno marca un punto cardinal de la isla.',
             location: {
                 center: [-17.92561752570636, 28.596729247657425],
-                zoom: 15.97,
-                pitch: 73,
-                bearing: 97.60
+                zoom: 12.52,
+                pitch: 64,
+                bearing: 52
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -59,9 +59,9 @@ var config = {
             description: 'En la entrada se exponen tres montajes visuales alusivos a los vertidos sólidos provenientes de la actividad humana; otro denuncia los líquidos tóxicos que arrojan los petroleros, y un tercero representa un sumidero por el que las viviendas arrojan productos tóxicos. La sala principal recrea una gruta volcánica y el visitante, que camina sobre un suelo de cristal sobre el fondo marino podrá observar las basuras que los humanos han vertido en alguna ocasión al mar. En el centro de la sala hay un delfín a escala real realizado en bronce colgado del techo y atrapado por la red de un pesquero del que solo apreciará la quilla en la superficie. Las paredes repletas de peces de bronce y rocalla submarina recrean los fondos de la reserva',
             location: {
                 center: [-17.84312614304842, 28.455281749756253],
-                zoom: 15,
-                pitch: 85,
-                bearing: -43.20,
+                zoom: 16.75,
+                pitch: 69.50,
+                bearing: 0,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
@@ -84,9 +84,9 @@ var config = {
             description: 'El faro de Arenas Blancas es un faro situado en la playa de Arenas Blancas, a 4 kilómetros al sureste de Lomo Oscuro, en la isla de La Palma, en el archipiélago de las Islas Canarias, España.',
             location: {
                 center: [-17.76045784422221, 28.569925844974257],
-                zoom: 16,
-                pitch: 78,
-                bearing: -139.20
+                zoom: 13.42,
+                pitch: 71.06,
+                bearing: -85.56
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -103,9 +103,9 @@ var config = {
             description: 'Permitidas las obras 1857, empezaron estas 1861 y tardaron hasta la inauguración del faro 1867. 1997 le fue cambiado por primera vez la linterna y se le adjuntó una segunda balconada. La linterna se guardó en la sala de entrada del puerto de Santa Cruz de Tenerife hasta volver 2013 a Barlovento, donde la instalaron en frente del ayuntamiento.',
             location: {
                 center: [-17.778052931436697, 28.83903806669408],
-                zoom: 15,
-                pitch: 78,
-                bearing: -139.20
+                zoom: 13.42,
+                pitch: 71.06,
+                bearing: -150.36
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
